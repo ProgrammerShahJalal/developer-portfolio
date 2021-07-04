@@ -20,6 +20,9 @@ section{
 h1{
     font-size: 55px;
 }
+h2{
+    font-size: 40px;
+}
 p{
     padding-right: 35px;
 }
@@ -44,4 +47,32 @@ padding-right: 80px;
 background-image: url(images/dream-bg.png);
 background-repeat: no-repeat;
 background-position: right;
+}
+.exparience h3{
+    color: tomato;
+}
+.exparience-item{
+    width: 50%;
+    padding: 35px 20px;
+    margin-left: 2.5%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 40px gray;
+}
+.exparience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
+#baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+   border-image-slice: 1;
+}
+#full{
+    border-left: 7px solid;
+    border-color: lightcoral;
+}
+.copyright{
+    text-align: center;
+    padding-bottom: 15px;
 }
