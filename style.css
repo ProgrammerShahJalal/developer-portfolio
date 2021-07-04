@@ -8,13 +8,14 @@ body{
 section{
     display: flex;
     padding-left: 50px;
+    padding-bottom: 150px;
 }
 .half-width{
     width: 50%;
     padding: 2%;
 }
 .half-width img{
-    width: 70%;
+    width: 90%;
 }
 h1{
     font-size: 55px;
@@ -34,4 +35,13 @@ p{
 .top-header{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big img{
+    width: 90%;
+}
+.dream-big{
+padding-right: 80px;
+background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
 }
