@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.name{
+    color: coral;
+}
+section{
+    display: flex;
+    padding-left: 50px;
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.half-width img{
+    width: 70%;
+}
+h1{
+    font-size: 55px;
+}
+p{
+    padding-right: 35px;
+}
+.link-button{
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(coral, orange );
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: ;
+}
+.top-header{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
